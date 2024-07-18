@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’ve navigated through diverse roles, from leading entrepreneurial ventures and managing properties to developing products. My journey has now steered me towards Data Analytics, reflecting a deliberate shift to harness my engineering background and business insights in uncovering data-driven truths. I'm committed to evolving my analytical skills, challenging the status quo, and transforming data into impactful narratives. I value teamwork, am eager for professional growth, and am on a path of continuous learning and achievement.
+
 <!--
 **jeromechin123/jeromechin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
